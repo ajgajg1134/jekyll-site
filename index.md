@@ -14,3 +14,7 @@ For more information on his experience [here](https://drive.google.com/file/d/0B
 
 Andrew has been composing music since 2008. Andrew has written music across a variety of
 genres and instrumentations. [Here](https://soundcloud.com/ajgajg1134) is a link to his soundcloud where you can listen to some examples of his work.
+
+# [](#header-2)Selected Examples
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/325234437&amp;auto_play=false&amp;hide_related=true&amp;show_comments=false&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
