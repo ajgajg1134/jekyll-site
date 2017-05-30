@@ -14,7 +14,7 @@ For more information on his experience [here](https://drive.google.com/file/d/0B
 
 Andrew has been composing music since 2008. Andrew has written music across a variety of genres and instrumentations. He has written music for RIT film student short projects as well as several small indie games out of RIT.
 
-# [](#header-2)Selected Examples
+## [](#header-2)Selected Examples
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/325234437&amp;color=ff5500&amp;auto_play=false&amp;hide_related=true&amp;show_comments=false&amp;show_user=true&amp;show_reposts=false"></iframe>
 
@@ -24,6 +24,6 @@ Andrew has been composing music since 2008. Andrew has written music across a va
 
 For a more complete listing of his public music you can go [here](https://soundcloud.com/ajgajg1134).
 
-# [](#header-2)Contact Info
+## [](#header-2)Contact Info
 
 If you're interested in having music done for your video game or film email me at {{site.email}}.
