@@ -1,9 +1,12 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-title: Home Page
-description: This is where the description goes
+layout: default
 ---
 
-Test putting some content in here.
+# [](#header-1)Developing
+
+
+
+# [](#header-1)Composing
+
+Andrew has been composing music since 2008. Andrew has written music across a variety of
+genres and instrumentations. [Here] (https://soundcloud.com/ajgajg1134) is a link to his soundcloud where you can listen to some examples of his work.
