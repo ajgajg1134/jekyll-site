@@ -23,6 +23,3 @@ Andrew has been composing music since 2008. Andrew has written music across a va
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/303898904&amp;color=ff5500&amp;auto_play=false&amp;hide_related=true&amp;show_comments=false&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 For a more complete listing of his public music you can go [here](https://soundcloud.com/ajgajg1134).
-
-## [](#header-2)Contact Info
-
