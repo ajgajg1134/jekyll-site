@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 
-.wrapper2 { max-width: -webkit-calc(400px - (30px * 2));
-		   max-width: calc(400px - (30px * 2));
+.wrapper2 { max-width: -webkit-calc(1000px - (30px * 2));
+		   max-width: calc(1000px - (30px * 2));
 		   margin-right: auto; margin-left: auto;
 		   padding-right: 30px; padding-left: 30px; }
