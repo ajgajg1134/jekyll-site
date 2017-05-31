@@ -26,4 +26,3 @@ For a more complete listing of his public music you can go [here](https://soundc
 
 ## [](#header-2)Contact Info
 
-If you're interested in having music done for your video game or film email me at {{site.email}}.
