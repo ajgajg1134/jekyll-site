@@ -19,7 +19,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Andrew Glaude is a developer as well as a music composer. He graduated
   from the Rochester Institute of Technology in 2016 with both a Bachelor's
   and a Master's degree in Computer Science with a minor in Music and Technology.
-baseurl: "/jekyll-site" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://andrewglaude.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ajgajg1134
 repository: ajgajg1134/ajgajg1134.github.io
