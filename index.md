@@ -12,7 +12,7 @@ For more information on his experience [here](https://drive.google.com/file/d/0B
 
 # [](#header-1)Composing
 
-Andrew has been composing music since 2008. Andrew has written music across a variety of genres and instrumentations. He has written music for RIT film student short projects as well as several small indie games out of RIT. blah
+Andrew has been composing music since 2008. Andrew has written music across a variety of genres and instrumentations. He has written music for RIT film student short projects as well as several small indie games out of RIT.
 
 ## [](#header-2)Selected Examples
 
